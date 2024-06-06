@@ -1,6 +1,6 @@
 title: "Maryam Mohammadi"
 author: "Maryam Mohammadi"
-#description: "a text at the footnote of all pages"
+description: "Made by jekyll template."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
