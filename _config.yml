@@ -1,4 +1,4 @@
-title: "Maryam's website"
+title: "Maryam Mohammadi"
 author: "Maryam Mohammadi"
 description: "This is my personaal webssite"
 permalink: /:title/
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:maryam.mohammadi@uni-konstanz.de"}
+  - {title: Github, icon: github, url: "https://mohammadi-maryam.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
