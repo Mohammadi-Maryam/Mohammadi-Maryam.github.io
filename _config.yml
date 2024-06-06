@@ -1,6 +1,6 @@
 title: "Maryam Mohammadi"
 author: "Maryam Mohammadi"
-description: "This is my personaal webssite"
+#description: "a text at the footnote of all pages"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
