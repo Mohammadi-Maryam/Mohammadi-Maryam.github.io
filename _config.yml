@@ -1,6 +1,6 @@
-title: "Maryam Mohammadi 222"
+title: "Maryam Mohammadi"
 author: "Maryam Mohammadi"
-description: "Made by jekyll template."
+description: "made by jekyll template."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,9 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:maryam.mohammadi@uni-konstanz.de"}
   - {title: Github, icon: github, url: "https://mohammadi-maryam.github.io"}
-  - {title: linkedin, class="fa-brands fa-github", url: "www.linkedin.com/in/maryam-mohammadi-675894146"}
-# rss
-<i class="fa-brands fa-linkedin-in"></i>
+  - {title: linkedin, class="fa-brands fa-linkedin-in", url: "www.linkedin.com/in/maryam-mohammadi-675894146"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
