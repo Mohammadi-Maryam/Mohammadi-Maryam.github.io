@@ -59,7 +59,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadi(2023-CLS).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi(2023-CLS).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4>
