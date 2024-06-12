@@ -46,16 +46,16 @@ layout: page
 <div class="publications">
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/paper1.pdf" target="_blank">
+    <!--  <a href="pdfs/paper1.pdf" target="_blank">  -->
         <div class="publication-content">
           <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
-            Non-Canonical Questions in Farsi, 
-            to appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
+            <i> Non-Canonical Questions in Farsi, </i>
+            To appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
           </h4>
         </div>
-      </a>
+  <!--    </a>  -->
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
@@ -64,7 +64,7 @@ layout: page
           <h3> 2024 </h3>
           <h4>
             Mohammadi, M., Koev, T. 
-            Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, 
+            <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </i>
             To appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
@@ -76,7 +76,7 @@ layout: page
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4> Mohammadi, M., Romero, M. 
-            Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, 
+            <i> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, </i>
             In the proceedings of Sinn und Bedeutun (SuB) 28.
           </h4>
         </div>
@@ -88,7 +88,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            Bias effect on response preference, 
+            <i> Bias effect on response preference, </i>
             In the proceedings of Chicago Linguistic Society (CLS) 59.
           </h4>
         </div>
@@ -100,7 +100,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <i>mage</i> as a bias particle in interrogatives, 
+            <i> mage as a bias particle in interrogatives, </i>
             In the proceedings of Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB) 4 workshop, IWCS Conference.
           </h4>
         </div>
@@ -112,7 +112,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            Which stress is on response particles? An empirical study, 
+            <i> Which stress is on response particles? An empirical study, </i>
             In the proceedings of Linguistic Society of America (LSA) 8.
           </h4>
         </div>
@@ -125,7 +125,7 @@ layout: page
           <h3> 2022 </h3>
           <h4> 
             Mohammadi, M. 
-            A unified account of polar particles in Farsi, 
+            <i> A unified account of polar particles in Farsi, </i>
             In the proceedings of Linguistic Society of America (LSA) 7.
           </h4>
         </div>
@@ -137,7 +137,7 @@ layout: page
         <div class="publication-content">
           <h3> 2020 </h3>
           <h4> Koev, T., Bill, C., & Mohammadi, M. 
-            Believe is strong but subjective : Experimental evidence from hedging. 
+            <i> Believe is strong but subjective : Experimental evidence from hedging, </i>
             In the proceedings of Sinn und Bedeutung (SuB) 25.
           </h4>
         </div>
@@ -148,7 +148,8 @@ layout: page
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
           <h3> 2019 </h3>
-          <h4> Mohammadi, M. A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, 
+          <h4> Mohammadi, M. 
+            <i> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, </i>
             Cambridge scholars publication.
           </h4>
         </div>
@@ -160,7 +161,7 @@ layout: page
         <div class="publication-content">
           <h3> 2018 </h3>
           <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
-            Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system. 
+            <i> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system, </i>
             In the proceedings of SemDial 22.
           </h4>
         </div>
