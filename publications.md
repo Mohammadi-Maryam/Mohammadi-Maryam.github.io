@@ -5,7 +5,7 @@ layout: page
 ---
 <style>
 .publications {
-  display: flex;
+  display: contents;
   flex-wrap: wrap;
   justify-content: center;
   margin: 20px;
@@ -15,7 +15,6 @@ layout: page
   border: 1px solid #ccc;
   border-radius: 5px;
   margin: 10px;
-  width: 300px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
 }
@@ -31,7 +30,6 @@ layout: page
 
 .publication-content {
   padding: 15px;
-  background-color: #fff;
 }
 
 .publication h3 {
@@ -46,25 +44,18 @@ layout: page
 </style>
 
 <div class="publications">
+    <!-- Add your publication.... -->
     <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
           <h3>Title of Paper 1</h3>
-          <p>Author(s): Author 1, Author 2</p>
-          <p>Journal: Journal Name, Year</p>
+          <h4>
+            Mohammadi, M., Koev, T. Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, to appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
+          </h4>
         </div>
       </a>
     </div>
-    <div class="publication">
-      <a href="pdfs/paper2.pdf" target="_blank">
-        <div class="publication-content">
-          <h3>Title of Paper 2</h3>
-          <p>Author(s): Author 1, Author 2</p>
-          <p>Journal: Journal Name, Year</p>
-        </div>
-      </a>
-    </div>
-    <!-- Add more publications as needed -->
+    <!-- Add your publication.... -->
   </div>
 
 
@@ -77,7 +68,8 @@ layout: page
 Publications:
 
 to appear to appear 2024 2023 2023 2023 2022 2020
-Mohammadi, M., Koev, T. Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, to appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University. Mohammadi, M. Non-Canonical Questions in Farsi, to appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
+Mohammadi, M., Koev, T. Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, to appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University. 
+Mohammadi, M. Non-Canonical Questions in Farsi, to appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
 Mohammadi, M., Romero, M. Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, In the proceedings of Sinn und Bedeutun (SuB) 28.
 Mohammadi, M. Bias effect on response preference, In the proceedings of Chicago Linguistic Society (CLS) 59.
 Mohammadi, M. mage as a bias particle in interrogatives, In the proceedings of Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB) 4 workshop, IWCS Conference.
