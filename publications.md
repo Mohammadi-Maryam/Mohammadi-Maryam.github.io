@@ -46,7 +46,7 @@ layout: page
 <div class="publications">
     <!-- Add your publication.... -->
     <div class="publication">
-    <!--  <a href="pdfs/paper1.pdf" target="_blank">  -->
+    <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
         <div class="publication-content">
           <h3> to appear </h3>
           <h4> 
@@ -72,7 +72,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadi&Romero(2024).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi&Romero(2024).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4> Mohammadi, M., Romero, M. 
@@ -84,7 +84,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadi(2023.Inq).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi(2023.Inq).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
@@ -96,7 +96,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadi(2023.LSA).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi(2023.LSA).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
@@ -108,7 +108,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadi(2022-LSA).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi(2022-LSA).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2022 </h3>
           <h4> 
@@ -121,7 +121,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadietal(2020).pdf" target="_blank">
+      <a href="../pdfs/Mohammadietal(2020).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2020 </h3>
           <h4> Koev, T., Bill, C., & Mohammadi, M. 
@@ -133,7 +133,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
       <div class="publication">
-      <a href="pdfs/Mohammadi(2019).pdf" target="_blank">
+      <a href="../pdfs/Mohammadi(2019).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2019 </h3>
           <h4> Mohammadi, M. 
@@ -145,7 +145,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-      <a href="pdfs/Mohammadietal(2018).pdf" target="_blank">
+      <a href="../pdfs/Mohammadietal(2018).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2018 </h3>
           <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
@@ -158,7 +158,7 @@ layout: page
     <!-- Add your publication.... -->
     <!-- Template 
       <div class="publication">
-      <a href="pdfs/paper1.pdf" target="_blank">
+      <a href="../pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
           <h3> year </h3>
           <h4> citation
