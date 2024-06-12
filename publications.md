@@ -48,20 +48,7 @@ layout: page
     <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
-          <h3> 2024 </h3>
-          <h4>
-            Mohammadi, M., Koev, T. 
-            Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, 
-            to appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
-          </h4>
-        </div>
-      </a>
-    </div>
-    <!-- Add your publication.... -->
-    <div class="publication">
-      <a href="pdfs/paper1.pdf" target="_blank">
-        <div class="publication-content">
-          <h3> 2023 </h3>
+          <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
             Non-Canonical Questions in Farsi, 
@@ -74,7 +61,20 @@ layout: page
     <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
-          <h3> 2023 </h3>
+          <h3> 2024 </h3>
+          <h4>
+            Mohammadi, M., Koev, T. 
+            Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, 
+            To appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
+          </h4>
+        </div>
+      </a>
+    </div>
+    <!-- Add your publication.... -->
+    <div class="publication">
+      <a href="pdfs/paper1.pdf" target="_blank">
+        <div class="publication-content">
+          <h3> 2024 </h3>
           <h4> Mohammadi, M., Romero, M. 
             Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, 
             In the proceedings of Sinn und Bedeutun (SuB) 28.
@@ -135,7 +135,7 @@ layout: page
     <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
-          <h3> 2022 </h3>
+          <h3> 2020 </h3>
           <h4> Koev, T., Bill, C., & Mohammadi, M. 
             Believe is strong but subjective : Experimental evidence from hedging. 
             In the proceedings of Sinn und Bedeutung (SuB) 25.
@@ -147,7 +147,7 @@ layout: page
       <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
-          <h3> 2020 </h3>
+          <h3> 2019 </h3>
           <h4> Mohammadi, M. A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, 
             Cambridge scholars publication.
           </h4>
@@ -158,7 +158,7 @@ layout: page
     <div class="publication">
       <a href="pdfs/paper1.pdf" target="_blank">
         <div class="publication-content">
-          <h3> year </h3>
+          <h3> 2018 </h3>
           <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
             Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system. 
             In the proceedings of SemDial 22.
