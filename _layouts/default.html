@@ -8,10 +8,11 @@
     .header-container {
       text-align: center;
       margin: 20px;
+      display: contents;
     }
     
     .header-container img {
-      max-width: 100%;
+      width: 150px;
       height: auto;
     }
     
@@ -71,10 +72,10 @@
 {% endif %}
 
 <header>
-  <div style="display: contents;">
+  <div class="header-container">>
     <a href="{{ "/" | relative_url }}">
       {% if site.logo %}
-        <img width="150px" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+        <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
         <span class="tooltip"> Maryam Mohammadi </span>
       {% else %}
         {{ site.title }}
