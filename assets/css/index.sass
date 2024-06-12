@@ -3,6 +3,14 @@
 
 @import index, font, basic, layout, classes
 
+.header-container
+  text-align: center
+  margin: 20px
+
+.header-container img
+  max-width: 100%
+  height: auto
+  
 @media (min-width: 40em)
   body > header, body > article, body > footer
     padding: 1.75em calc(40% - 17em)
@@ -27,13 +35,3 @@ body > footer
   border-top: 1px solid reduce(14)
   opacity: .9
 
-header-container {
-  text-align: center
-  margin: 20px
-}
-
-header-container img {
-  width: 150px
-  height: 150px
-  float: left
-}
