@@ -5,7 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-logo: "/images/logo.png" # Add this line
+logo: "/images/logo2.png" # Add this line
 
 # Layout
 
