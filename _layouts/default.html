@@ -28,8 +28,15 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+  {% if site.logo %}
+    <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+  {% else %}
+    {{ site.title }}
+  {% endif %}
+  
+<!--  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  {% include menu.html menu=pages %}  -->
+  
 </header>
 
 {{ content }}
