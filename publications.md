@@ -51,7 +51,7 @@ layout: page
           <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
-            <i> Non-Canonical Questions in Farsi, </i>
+            <u> Non-Canonical Questions in Farsi, </u>
             To appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
           </h4>
         </div>
@@ -64,7 +64,7 @@ layout: page
           <h3> 2024 </h3>
           <h4>
             Mohammadi, M., Koev, T. 
-            <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </i>
+            <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </u>
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
@@ -76,7 +76,7 @@ layout: page
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4> Mohammadi, M., Romero, M. 
-            <i> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, </i>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, </u>
             In the proceedings of Sinn und Bedeutun (SuB) 28.
           </h4>
         </div>
@@ -88,7 +88,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <i> Bias effect on response preference, </i>
+            <u> Bias effect on response preference, </u>
             In the proceedings of Chicago Linguistic Society (CLS) 59.
           </h4>
         </div>
@@ -100,7 +100,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <i> mage as a bias particle in interrogatives, </i>
+            <u> <i>mage</i> as a bias particle in interrogatives, </u>
             In the proceedings of Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB) 4 workshop, IWCS Conference.
           </h4>
         </div>
@@ -112,7 +112,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <i> Which stress is on response particles? An empirical study, </i>
+            <u> Which stress is on response particles? An empirical study, </u>
             In the proceedings of Linguistic Society of America (LSA) 8.
           </h4>
         </div>
@@ -125,7 +125,7 @@ layout: page
           <h3> 2022 </h3>
           <h4> 
             Mohammadi, M. 
-            <i> A unified account of polar particles in Farsi, </i>
+            <u> A unified account of polar particles in Farsi, </u>
             In the proceedings of Linguistic Society of America (LSA) 7.
           </h4>
         </div>
@@ -137,7 +137,7 @@ layout: page
         <div class="publication-content">
           <h3> 2020 </h3>
           <h4> Koev, T., Bill, C., & Mohammadi, M. 
-            <i> Believe is strong but subjective : Experimental evidence from hedging, </i>
+            <u> Believe is strong but subjective : Experimental evidence from hedging, </u>
             In the proceedings of Sinn und Bedeutung (SuB) 25.
           </h4>
         </div>
@@ -149,7 +149,7 @@ layout: page
         <div class="publication-content">
           <h3> 2019 </h3>
           <h4> Mohammadi, M. 
-            <i> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, </i>
+            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, </u>
             Cambridge scholars publication.
           </h4>
         </div>
@@ -161,7 +161,7 @@ layout: page
         <div class="publication-content">
           <h3> 2018 </h3>
           <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
-            <i> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system, </i>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system, </u>
             In the proceedings of SemDial 22.
           </h4>
         </div>
