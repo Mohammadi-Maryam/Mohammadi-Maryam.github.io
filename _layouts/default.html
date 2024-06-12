@@ -2,13 +2,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-
- <style>
+<style>
     /* Define your CSS classes here */
     .header-container {
       text-align: center;
       margin: 20px;
-      display: contents;
     }
     
     .header-container img {
@@ -42,7 +40,6 @@
       opacity: 1;
     }
   </style>
-  
 
   
 <meta charset="{{ site.encoding }}">
@@ -73,15 +70,14 @@
 
 <header>
   <div class="header-container">
-    <a href="{{ "/" | relative_url }}">
+    <a href="{{ site.baseurl }}/" class="logo-container">
       {% if site.logo %}
         <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-        <span class="tooltip"> Maryam Mohammadi </span>
+        <span class="tooltip">Maryam Mohammadiiii</span>
       {% else %}
         {{ site.title }}
       {% endif %}
     </a>
-    {% include menu.html menu=pages %}
   </div>
   
 <!--  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
