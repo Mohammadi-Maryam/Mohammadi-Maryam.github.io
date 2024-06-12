@@ -29,10 +29,10 @@
 {% endif %}
 
 <header>
-  <div class="header-container">
+  <div  display="contents" class="header-container">
     <a href="{{ "/" | relative_url }}">
       {% if site.logo %}
-        <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+        <img width="150px" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
       {% else %}
         {{ site.title }}
       {% endif %}
