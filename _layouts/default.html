@@ -1,15 +1,16 @@
-<!DOCTYPE html>
 .header-container {
   text-align: center;
   margin: 20px;
 }
 
-.header-container img {
+.imgLogo {
   max-width: 30px;
   max-height: 30px;
   height: auto;
+  float: left;
 }
 
+<!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
@@ -41,11 +42,12 @@
 <header>
   {% if site.logo %}
     <a href="{{ "/" | relative_url }}" class="title">
-      <img class="img" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+      <img class="imgLogo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
     </a>
+    {% include menu.html menu=pages %}
   {% else %}
     <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+    {% include menu.html menu=pages %}
   {% endif %}
   
 <!--  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
