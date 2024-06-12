@@ -73,11 +73,12 @@
     <a href="{{ site.baseurl }}/" class="logo-container">
       {% if site.logo %}
         <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-        <span class="tooltip">Maryam Mohammadiiii</span>
+        <span class="tooltip">Maryam Mohammadi</span>
       {% else %}
         {{ site.title }}
       {% endif %}
     </a>
+    {% include menu.html menu=pages %}
   </div>
   
 <!--  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
