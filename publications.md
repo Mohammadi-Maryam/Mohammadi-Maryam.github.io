@@ -51,7 +51,7 @@ layout: page
           <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
-            <u> Non-Canonical Questions in Farsi, </u> 
+            <u> Non-Canonical Questions in Farsi,</u>
             To appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
           </h4>
         </div>
@@ -64,7 +64,7 @@ layout: page
           <h3> 2024 </h3>
           <h4>
             Mohammadi, M., Koev, T. 
-            <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </u> 
+            <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</u> 
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
@@ -76,7 +76,7 @@ layout: page
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4> Mohammadi, M., Romero, M. 
-            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, </u>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</u>
             In the proceedings of Sinn und Bedeutun (SuB) 28.
           </h4>
         </div>
@@ -88,7 +88,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <u> Bias effect on response preference, </u>
+            <u> Bias effect on response preference,</u>
             In the proceedings of Chicago Linguistic Society (CLS) 59.
           </h4>
         </div>
@@ -100,7 +100,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <u> <i>mage</i> as a bias particle in interrogatives, </u>
+            <u> <i>mage</i> as a bias particle in interrogatives,</u>
             In the proceedings of Inquisitiveness Below and Beyond the Sentence Boundary (InqBnB) 4 workshop, IWCS Conference.
           </h4>
         </div>
@@ -112,7 +112,7 @@ layout: page
         <div class="publication-content">
           <h3> 2023 </h3>
           <h4> Mohammadi, M. 
-            <u> Which stress is on response particles? An empirical study, </u>
+            <u> Which stress is on response particles? An empirical study,</u>
             In the proceedings of Linguistic Society of America (LSA) 8.
           </h4>
         </div>
@@ -125,7 +125,7 @@ layout: page
           <h3> 2022 </h3>
           <h4> 
             Mohammadi, M. 
-            <u> A unified account of polar particles in Farsi, </u>
+            <u> A unified account of polar particles in Farsi,</u>
             In the proceedings of Linguistic Society of America (LSA) 7.
           </h4>
         </div>
@@ -137,7 +137,7 @@ layout: page
         <div class="publication-content">
           <h3> 2020 </h3>
           <h4> Koev, T., Bill, C., & Mohammadi, M. 
-            <u> Believe is strong but subjective : Experimental evidence from hedging, </u>
+            <u> Believe is strong but subjective : Experimental evidence from hedging,</u>
             In the proceedings of Sinn und Bedeutung (SuB) 25.
           </h4>
         </div>
@@ -149,7 +149,7 @@ layout: page
         <div class="publication-content">
           <h3> 2019 </h3>
           <h4> Mohammadi, M. 
-            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, </u>
+            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,</u>
             Cambridge scholars publication.
           </h4>
         </div>
@@ -161,7 +161,7 @@ layout: page
         <div class="publication-content">
           <h3> 2018 </h3>
           <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
-            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system, </u>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</u>
             In the proceedings of SemDial 22.
           </h4>
         </div>
@@ -191,37 +191,37 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
-            </u>
+           </u>
             In the Semantics Workshop at the University of Massachusetts (Amherst).
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
-            </u>
+           </u>
             In SuB 28, Bochum, Germany.
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> <i>mage</i> as a bias particle in interrogatives,
-            </u>
+           </u>
             IWCS, InqBnB workshop, Nancy, France.
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Bias effect of response preference,
-            </u>
+           </u>
             CLS 59, Chicago University (poster presentation).
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> <i>mage</i> : a Bias Sensitive Discourse Particle,
-            </u>
+           </u>
              NACIL 3, University of California, Los Angeles.
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Which Stress is on Response Particles? An empirical study, 
-            </u>
+           </u>
             LSA Conference, Denver, Colorado.
           </h4>
           <!-- Add your presentation under the related year -->
@@ -229,13 +229,13 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <u> Which stress is on PRPs?
-            </u>
+           </u>
             SemDial 26, Technological University of Dublin, Ireland (poster presentation). 
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> A unified accountof polar particles in Farsi,
-            </u>
+           </u>
             LSA Conference, Washington DC.
           </h4>
           <!-- Add your presentation under the related year -->
@@ -243,7 +243,7 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <u> Believe is strong but subjective : Experimental evidence from hedging,
-            </u>
+           </u>
             SuB 25 (with Koev and Bill).
           </h4>
           <!-- Add your presentation under the related year -->
@@ -251,25 +251,25 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,
-            </u>
+           </u>
             CoCoLaC conference, Helsinki University, Finland.
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> From learning user types to generating biscuit conditionals,
-            </u>
+           </u>
             ComPrag Workshop, Bochum University.
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
-            </u>
+           </u>
             SemDial 22, Aix-en-Provence, France (with Judith Fischer).
           </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
-            </u>
+           </u>
             DGfS Conference, Stuttgart University, Germany.
           </h4>
         </div>
