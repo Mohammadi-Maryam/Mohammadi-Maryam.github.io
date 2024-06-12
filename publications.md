@@ -65,7 +65,7 @@ layout: page
           <h4>
             Mohammadi, M., Koev, T. 
             <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </i>
-            To appear in the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
+            In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
       </a>
