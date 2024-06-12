@@ -21,7 +21,7 @@ layout: page
 
 .publication:hover {
   box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
-  border: 2px solid $link-color; /* Change border thickness and color on hover */
+  border: 2px solid #1cd9e7; /* Change border thickness and color on hover */
 }
 
 .publication a {
