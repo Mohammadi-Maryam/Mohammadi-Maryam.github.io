@@ -3,6 +3,76 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
+<style>
+.publications {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.publication {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.publication a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.publication:hover {
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.publication-content {
+  padding: 15px;
+  background-color: #fff;
+}
+
+.publication h3 {
+  margin: 0 0 10px;
+  font-size: 1.2em;
+}
+
+.publication p {
+  margin: 5px 0;
+  color: #555;
+}
+</style>
+
+<div class="publications">
+    <div class="publication">
+      <a href="pdfs/paper1.pdf" target="_blank">
+        <div class="publication-content">
+          <h3>Title of Paper 1</h3>
+          <p>Author(s): Author 1, Author 2</p>
+          <p>Journal: Journal Name, Year</p>
+        </div>
+      </a>
+    </div>
+    <div class="publication">
+      <a href="pdfs/paper2.pdf" target="_blank">
+        <div class="publication-content">
+          <h3>Title of Paper 2</h3>
+          <p>Author(s): Author 1, Author 2</p>
+          <p>Journal: Journal Name, Year</p>
+        </div>
+      </a>
+    </div>
+    <!-- Add more publications as needed -->
+  </div>
+
+
+
+
+
+
+
 
 Publications:
 
