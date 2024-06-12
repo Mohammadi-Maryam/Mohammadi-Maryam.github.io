@@ -2,6 +2,48 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+
+ <style>
+    /* Define your CSS classes here */
+    .header-container {
+      text-align: center;
+      margin: 20px;
+    }
+    
+    .header-container img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    .logo-container {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .tooltip {
+      visibility: hidden;
+      background-color: black;
+      color: #fff;
+      text-align: center;
+      border-radius: 5px;
+      padding: 5px 10px;
+      position: absolute;
+      z-index: 1;
+      bottom: 100%; /* Position the tooltip above the image */
+      left: 50%;
+      margin-left: -50px;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    
+    .logo-container:hover .tooltip {
+      visibility: visible;
+      opacity: 1;
+    }
+  </style>
+  
+
+  
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="{{ page.author | default: site.author | escape }}">
@@ -33,7 +75,7 @@
     <a href="{{ "/" | relative_url }}">
       {% if site.logo %}
         <img width="150px" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-        <p><i> maryam mohammadi </i></p>
+        <span class="tooltip"> Maryam Mohammadi </span>
       {% else %}
         {{ site.title }}
       {% endif %}
