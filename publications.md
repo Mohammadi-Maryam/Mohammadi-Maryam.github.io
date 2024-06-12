@@ -182,7 +182,7 @@ layout: page
   </div>
 
 
-<h2> Presentations: </h3>
+<h3> Presentations: </h3>
 <div class="publications">
     <div class="publication">
         <div class="publication-content">
