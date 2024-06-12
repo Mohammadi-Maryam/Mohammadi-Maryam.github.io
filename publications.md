@@ -51,7 +51,7 @@ layout: page
           <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
-            <u> Non-Canonical Questions in Farsi, </u>
+            <u> Non-Canonical Questions in Farsi, </u> 
             To appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
           </h4>
         </div>
@@ -64,7 +64,7 @@ layout: page
           <h3> 2024 </h3>
           <h4>
             Mohammadi, M., Koev, T. 
-            <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </u>
+            <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi, </u> 
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
