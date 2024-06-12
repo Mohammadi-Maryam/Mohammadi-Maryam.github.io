@@ -190,86 +190,73 @@ layout: page
           <h3> 2023 </h3>
           <!-- Add your presentation -->
           <h4>
-            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
-           </u>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</u>
             In the Semantics Workshop at the University of Massachusetts (Amherst).
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
-           </u>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</u>
             In SuB 28, Bochum, Germany.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> <i>mage</i> as a bias particle in interrogatives,
-           </u>
+            <u> <i>mage</i> as a bias particle in interrogatives,</u>
             IWCS, InqBnB workshop, Nancy, France.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> Bias effect of response preference,
-           </u>
+            <u> Bias effect of response preference,</u>
             CLS 59, Chicago University (poster presentation).
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> <i>mage</i> : a Bias Sensitive Discourse Particle,
-           </u>
+            <u> <i>mage</i> : a Bias Sensitive Discourse Particle,</u>
              NACIL 3, University of California, Los Angeles.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> Which Stress is on Response Particles? An empirical study, 
-           </u>
+            <u> Which Stress is on Response Particles? An empirical study,</u>
             LSA Conference, Denver, Colorado.
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> 2022 </h3>
           <!-- Add your presentation -->
           <h4>
-            <u> Which stress is on PRPs?
-           </u>
+            <u> Which stress is on PRPs?</u>
             SemDial 26, Technological University of Dublin, Ireland (poster presentation). 
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> A unified accountof polar particles in Farsi,
-           </u>
+            <u> A unified accountof polar particles in Farsi,</u>
             LSA Conference, Washington DC.
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> 2020 </h3>
           <!-- Add your presentation -->
           <h4>
-            <u> Believe is strong but subjective : Experimental evidence from hedging,
-           </u>
+            <u> Believe is strong but subjective : Experimental evidence from hedging,</u>
             SuB 25 (with Koev and Bill).
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> 2018 </h3>
           <!-- Add your presentation -->
           <h4>
-            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,
-           </u>
+            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,</u>
             CoCoLaC conference, Helsinki University, Finland.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> From learning user types to generating biscuit conditionals,
-           </u>
+            <u> From learning user types to generating biscuit conditionals,</u>
             ComPrag Workshop, Bochum University.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
-           </u>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</u>
             SemDial 22, Aix-en-Provence, France (with Judith Fischer).
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
-           </u>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</u>
             DGfS Conference, Stuttgart University, Germany.
           </h4>
         </div>
