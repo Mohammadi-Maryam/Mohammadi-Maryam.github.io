@@ -187,35 +187,63 @@ layout: page
     <div class="publication">
         <div class="publication-content">
           <!-- Add your presentation under the related year -->
-          <h3> 2023 </h3>
-          <h4>
+          <h4> 2023 </h4>
+          <!-- Add your presentation -->
+          <h5>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
             </u>
             In the Semantics Workshop at the University of Massachusetts (Amherst).
-          </h4>
-          <!-- Add your presentation under the related year -->
+          </h5>
+          <!-- Add your presentation -->
           <h4>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
             </u>
             In SuB 28, Bochum, Germany.
           </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> <i>mage</i> as a bias particle in interrogatives,
+            </u>
+            IWCS, InqBnB workshop, Nancy, France.
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> Bias effect of response preference,
+            </u>
+            CLS 59, Chicago University (poster presentation).
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> <i>mage</i> : a Bias Sensitive Discourse Particle,
+            </u>
+             NACIL 3, University of California, Los Angeles.
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> Which Stress is on Response Particles? An empirical study, 
+            </u>
+            LSA Conference, Denver, Colorado.
+          </h4>
           <!-- Add your presentation under the related year -->
           <h3> 2022 </h3>
+          <!-- Add your presentation -->
           <h4>
-            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
+            <u> Which stress is on PRPs?
             </u>
-            In the Semantics Workshop at the University of Massachusetts (Amherst).
+            SemDial 26, Technological University of Dublin, Ireland (poster presentation). 
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> A unified accountof polar particles in Farsi,
+            </u>
+            LSA Conference, Washington DC.
           </h4>
         </div>
     </div>
  </div>
 
-2023  
-2023 ‘mage’ as a bias particle in interrogatives, IWCS, InqBnB workshop, Nancy, France.
-2023 Bias effect of response preference, CLS 59, Chicago University (poster presentation).
-2023 mage : a Bias Sensitive Discourse Particle, NACIL 3, University of California, Los Angeles.
-2023 Which Stress is on Response Particles ? An empirical study, LSA Conference, Denver, Colorado.
-2022 Which stress is on PRPs ? SemDial 26, Technological University of Dublin, Ireland (poster presentation). 2022 A unified accountof polar particles in Farsi, LSA Conference, Washington DC.
+
+2022  
 2020 Believe is strong but subjective : Experimental evidence from hedging, SuB 25 (with Koev and Bill).
 2018 A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, CoCoLaC confe-
 rence, Helsinki University, Finland.
