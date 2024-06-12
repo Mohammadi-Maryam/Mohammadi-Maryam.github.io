@@ -182,18 +182,18 @@ layout: page
   </div>
 
 
-<h3> Presentations: </h3>
+<h2> Presentations: </h2>
 <div class="publications">
     <div class="publication">
         <div class="publication-content">
           <!-- Add your presentation under the related year -->
-          <h4> 2023 </h4>
+          <h3> 2023 </h3>
           <!-- Add your presentation -->
-          <h5>
+          <h4>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
             </u>
             In the Semantics Workshop at the University of Massachusetts (Amherst).
-          </h5>
+          </h4>
           <!-- Add your presentation -->
           <h4>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
@@ -238,19 +238,40 @@ layout: page
             </u>
             LSA Conference, Washington DC.
           </h4>
+          <!-- Add your presentation under the related year -->
+          <h3> 2020 </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <u> Believe is strong but subjective : Experimental evidence from hedging,
+            </u>
+            SuB 25 (with Koev and Bill).
+          </h4>
+          <!-- Add your presentation under the related year -->
+          <h3> 2018 </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <u> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,
+            </u>
+            CoCoLaC conference, Helsinki University, Finland.
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> From learning user types to generating biscuit conditionals,
+            </u>
+            ComPrag Workshop, Bochum University.
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
+            </u>
+            SemDial 22, Aix-en-Provence, France (with Judith Fischer).
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,
+            </u>
+            DGfS Conference, Stuttgart University, Germany.
+          </h4>
         </div>
     </div>
  </div>
-
-
-2022  
-2020 Believe is strong but subjective : Experimental evidence from hedging, SuB 25 (with Koev and Bill).
-2018 A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi, CoCoLaC confe-
-rence, Helsinki University, Finland.
-2018 From learning user types to generating biscuit conditionals, ComPrag Workshop, Bochum University.
-2018 Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A
-system, SemDial 22, Aix-en-Provence, France (with Judith Fischer).
-2018 Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A
-system, DGfS Conference, Stuttgart University, Germany.
-
-
