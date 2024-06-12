@@ -181,10 +181,37 @@ layout: page
     -->
   </div>
 
-Presentations:
 
-2023 Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, Semantics Workshop at the Univer- sity of Massachusetts (Amherst).
-2023 Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse, SuB 28, Bochum, Germany. 2023 ‘mage’ as a bias particle in interrogatives, IWCS, InqBnB workshop, Nancy, France.
+<h2> Presentations: </h3>
+<div class="publications">
+    <div class="publication">
+        <div class="publication-content">
+          <!-- Add your presentation under the related year -->
+          <h3> 2023 </h3>
+          <h4>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
+            </u>
+            In the Semantics Workshop at the University of Massachusetts (Amherst).
+          </h4>
+          <!-- Add your presentation under the related year -->
+          <h4>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
+            </u>
+            In SuB 28, Bochum, Germany.
+          </h4>
+          <!-- Add your presentation under the related year -->
+          <h3> 2022 </h3>
+          <h4>
+            <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,
+            </u>
+            In the Semantics Workshop at the University of Massachusetts (Amherst).
+          </h4>
+        </div>
+    </div>
+ </div>
+
+2023  
+2023 ‘mage’ as a bias particle in interrogatives, IWCS, InqBnB workshop, Nancy, France.
 2023 Bias effect of response preference, CLS 59, Chicago University (poster presentation).
 2023 mage : a Bias Sensitive Discourse Particle, NACIL 3, University of California, Los Angeles.
 2023 Which Stress is on Response Particles ? An empirical study, LSA Conference, Denver, Colorado.
