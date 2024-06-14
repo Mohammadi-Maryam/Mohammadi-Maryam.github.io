@@ -11,7 +11,7 @@ layout: page
   margin: 20px;
 }
 
-.publication {
+.publication, research {
   border: 1px solid #ccc;
   border-radius: 5px;
   margin: 10px;
@@ -21,10 +21,13 @@ layout: page
 
 .publication:hover {
   box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
-  border: 4px solid #1cd9e7; /* Change border thickness and color on hover */
-  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+  border: 2px solid #1cd9e7; /* Change border thickness and color on hover */
 }
 
+.research:hover {
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+  border: 2px solid red; /* Change border thickness and color on hover */
+}
 .publication-content {
   padding: 15px;
 }
@@ -186,7 +189,7 @@ layout: page
 
 <h2 style="padding-top:60px;"> Presentations: </h2>
 <div class="publications">
-    <div class="publication">
+    <div class="publication, research">
         <div class="publication-content">
           <!-- Add your presentation under the related year -->
           <h3> 2023 </h3>
