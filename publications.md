@@ -240,7 +240,7 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <u> Believe is strong but subjective : Experimental evidence from hedging,</u>
-            SuB 25 (with Koev and Bill).
+            SuB 25 (with Koev and Bill), Online, Hosted by University College London (UCL) and Queen Mary University of London (QMUL).
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> 2018 </h3>
