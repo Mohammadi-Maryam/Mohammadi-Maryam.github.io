@@ -165,7 +165,7 @@ layout: page
       <a href="../pdfs/Mohammadietal(2018).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2018 </h3>
-          <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., Benz, A. & Klabunde, R. 
+          <h4> Hesse, Ch., Mohammadi, M., Langner, M., Fischer, J., <a href="https://www.leibniz-zas.de/en/people/details/benz-anton/anton-benz"> Benz </a>, A. & <a href="https://pragma.ruhr-uni-bochum.de/homepage/Klabunde/"> Klabunde, R. <\a>
             <u> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</u>
             In the proceedings of SemDial 22.
           </h4>
