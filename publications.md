@@ -62,7 +62,7 @@ layout: page
   
   .presentation:hover {
   box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
-  border: 2px solid #006633; /* Change border thickness and color on hover */
+  border: 2px solid #003366; /* Change border thickness and color on hover */
   }
   .presentation-content {
   padding: 15px;
