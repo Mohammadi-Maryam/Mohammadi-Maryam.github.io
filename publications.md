@@ -67,7 +67,7 @@ layout: page
         <div class="publication-content">
           <h3> 2024 </h3>
           <h4>
-            Mohammadi, M., Koev, T. 
+            Mohammadi, M., <a href="https://todor-koev.github.io/"> Koev, T. <\a>
             <u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</u> 
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
@@ -92,7 +92,7 @@ layout: page
       <a href="../pdfs/Mohammadi&Romero(2024).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2024 </h3>
-          <h4> Mohammadi, M., Romero, M. 
+          <h4> Mohammadi, M., <a href="https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/"> Romero, M. </a>
             <u> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</u>
             In the proceedings of Sinn und Bedeutun (SuB) 28.
           </h4>
@@ -141,7 +141,7 @@ layout: page
       <a href="../pdfs/Mohammadietal(2020).pdf" target="_blank">
         <div class="publication-content">
           <h3> 2020 </h3>
-          <h4> Koev, T., Bill, C., & Mohammadi, M. 
+          <h4> <a href="https://todor-koev.github.io/"> Koev, T. <\a>, <a href="https://www.corybill.com/"> Bill, C. <\a>, & Mohammadi, M. 
             <u> Believe is strong but subjective : Experimental evidence from hedging,</u>
             In the proceedings of Sinn und Bedeutung (SuB) 25.
           </h4>
