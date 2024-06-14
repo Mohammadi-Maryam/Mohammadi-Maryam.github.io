@@ -32,6 +32,11 @@ layout: page
   padding: 15px;
 }
 
+.publication a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .publication h3 {
   margin: 0 0 10px;
   font-size: 1.2em;
