@@ -34,6 +34,7 @@ layout: page
 
 .publication p {
   margin: 5px 0;
+  color: #555;
 }
 </style>
 
