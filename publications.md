@@ -24,11 +24,6 @@ layout: page
   border: 2px solid #1cd9e7; /* Change border thickness and color on hover */
 }
 
-.publication a {
-  text-decoration: none;
-  color: inherit;
-}
-
 .publication:hover {
   box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
 }
@@ -37,14 +32,8 @@ layout: page
   padding: 15px;
 }
 
-.publication h3 {
-  margin: 0 0 10px;
-  font-size: 1.2em;
-}
-
 .publication p {
   margin: 5px 0;
-  color: #555;
 }
 </style>
 
