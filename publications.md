@@ -4,47 +4,84 @@ permalink: "/publications/"
 layout: page
 ---
 <style>
-.publications {
+  .publications {
   display: contents;
   flex-wrap: wrap;
   justify-content: center;
   margin: 20px;
-}
-
-.publication, research {
+  }
+  
+  .publication {
   border: 1px solid #ccc;
   border-radius: 5px;
   margin: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease;
-}
-
-.publication:hover {
+  }
+  
+  .publication:hover {
   box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
   border: 2px solid #1cd9e7; /* Change border thickness and color on hover */
-}
-
-.research:hover {
-  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
-  border: 2px solid red; /* Change border thickness and color on hover */
-}
-.publication-content {
+  }
+  
+  .publication-content {
   padding: 15px;
-}
-
-.publication a {
+  }
+  
+  .publication a {
   text-decoration: none;
   color: inherit;
-}
-
-.publication h3 {
+  }
+  
+  .publication h3 {
   margin: 0 0 10px;
   font-size: 1.2em;
-}
-.publication p {
+  }
+  
+  .publication p {
   margin: 5px 0;
   color: #555;
-}
+  }
+
+
+  
+  .presentations {
+  display: contents;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+  }
+  
+  .presentation {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  }
+  
+  .presentation:hover {
+  box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+  border: 2px solid #00CC66; /* Change border thickness and color on hover */
+  }
+  .presentation-content {
+  padding: 15px;
+  }
+  
+  .presentation a {
+  text-decoration: none;
+  color: inherit;
+  }
+  
+  .presentation h3 {
+  margin: 0 0 10px;
+  font-size: 1.2em;
+  }
+  
+  .presentation p {
+  margin: 5px 0;
+  color: #555;
+  }
 </style>
 
 <div class="publications">
@@ -188,9 +225,9 @@ layout: page
 
 
 <h2 style="padding-top:60px;"> Presentations: </h2>
-<div class="publications">
-    <div class="publication, research">
-        <div class="publication-content">
+<div class="presentations">
+    <div class="presentation">
+        <div class="presentation-content">
           <!-- Add your presentation under the related year -->
           <h3> 2023 </h3>
           <!-- Add your presentation -->
