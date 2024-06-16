@@ -92,7 +92,7 @@ layout: page
           <h3> under submission </h3>
           <h4> 
             Mohammadi, M. 
-            <i><u>Polar response particles in Farsi: Lexical ambiguity,</u></i>
+            <i>Polar response particles in Farsi: Lexical ambiguity,</i>
             <!-- To appear in Glossa: a journal of general linguistics. -->
           </h4>
         </div>
@@ -105,7 +105,7 @@ layout: page
           <h3> to appear </h3>
           <h4> 
             Mohammadi, M. 
-            <i><u> Non-Canonical Questions in Farsi,</u></i>
+            <i> Non-Canonical Questions in Farsi,</i>
             To appear in The Oxford Handbook of Non-Canonical Questions, Oxford University Press.
           </h4>
         </div>
