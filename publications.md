@@ -37,6 +37,10 @@ layout: page
   margin: 0 0 5px;
   font-size: 1.2em;
   }
+
+  .publication h4 {
+  margin: 5px;
+  }
   
   .publication p {
   margin: 5px 0;
