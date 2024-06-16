@@ -25,7 +25,7 @@ layout: page
   }
   
   .publication-content {
-  padding: 15px;
+  padding: 5px;
   }
   
   .publication a {
@@ -34,7 +34,7 @@ layout: page
   }
   
   .publication h3 {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
   font-size: 1.2em;
   }
   
