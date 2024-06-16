@@ -262,80 +262,80 @@ layout: page
           <h3> <u> 2024 </u> </h3>
           <!-- Add your presentation -->
           <h4>
-            <i>Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
+            <i> - Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
             In WCCFL 42, Berkeley University.
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> <u> 2023 </u> </h3>
           <!-- Add your presentation -->
           <h4>
-            <i> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</i>
-            In the Semantics Workshop at the University of Massachusetts (Amherst).
+            <i> - Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</i>
+            In the Semantics Workshop at UMass Amherst.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</i>
+            <i> - Polar Particles in Farsi : Sensitivity to the Scoreboard Model of Discourse,</i>
             In SuB 28, Bochum, Germany.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> "mage" as a bias particle in interrogatives,</i>
+            <i> - "mage" as a bias particle in interrogatives,</i>
             IWCS, InqBnB workshop, Nancy, France.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> Bias effect of response preference,</i>
+            <i> - Bias effect of response preference,</i>
             CLS 59, Chicago University (poster presentation).
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> "mage": a Bias Sensitive Discourse Particle,</i>
+            <i> - "mage": a Bias Sensitive Discourse Particle,</i>
              NACIL 3, University of California, Los Angeles.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> Which Stress is on Response Particles? An empirical study,</i>
+            <i> - Which Stress is on Response Particles? An empirical study,</i>
             LSA Conference, Denver, Colorado.
           </h4>
           <!-- Add your presentation under the related year -->
           <h3><u> 2022 </u> </h3>
           <!-- Add your presentation -->
           <h4>
-            <i> Which stress is on PRPs?</i>
+            <i> - Which stress is on PRPs?</i>
             SemDial 26, Technological University of Dublin, Ireland (poster presentation). 
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> A unified accountof polar particles in Farsi,</i>
+            <i> - A unified accountof polar particles in Farsi,</i>
             LSA Conference, Washington DC.
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> <u> 2020 </u> </h3>
           <!-- Add your presentation -->
           <h4>
-            <i> Believe is strong but subjective : Experimental evidence from hedging,</i>
+            <i> - Believe is strong but subjective : Experimental evidence from hedging,</i>
             SuB 25 (with Koev and Bill), co-hosted virtually by University College London (UCL) and Queen Mary University of London (QMUL).
           </h4>
           <!-- Add your presentation under the related year -->
           <h3><u> 2018 </u></h3>
           <!-- Add your presentation -->
           <h4>
-            <i> A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,</i>
+            <i> - A Contrastive Analysis of Speech Act Conditionals as Indirect Answers in English and Farsi,</i>
             CoCoLaC conference, Helsinki University, Finland.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> From learning user types to generating biscuit conditionals,</i>
+            <i> - From learning user types to generating biscuit conditionals,</i>
             ComPrag Workshop, Bochum University.
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</i>
+            <i> - Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</i>
             SemDial 22, Aix-en-Provence, France (with Judith Fischer).
           </h4>
           <!-- Add your presentation -->
           <h4>
-            <i> Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</i>
+            <i> - Communicating an understanding of intention : Speech act conditionals and modified numerals in a Q/A system,</i>
             DGfS Conference, Stuttgart University, Germany.
           </h4>
         </div>
