@@ -111,7 +111,20 @@ layout: page
         </div>
      <!-- </a> -->
     </div>
-        <!-- Add your publication.... -->
+    <!-- Add your publication.... -->
+    <div class="publication">
+      <a href="../pdfs/Mohammadi(2024.Diss).pdf" target="_blank">
+        <div class="publication-content">
+          <h3> 2024 </h3>
+          <h4>
+            Mohammadi, M.
+            <i><u> Bias Conditions in Polar Questions and Answers : A study of Bias Effects in Farsi,</u></i>
+            PhD Dissertation, Konstanz University.
+          </h4>
+        </div>
+      </a>
+    </div>
+    <!-- Add your publication.... -->
     <div class="publication">
       <a href="../pdfs/Mohammadi(2023-CLS).pdf" target="_blank">
         <div class="publication-content">
