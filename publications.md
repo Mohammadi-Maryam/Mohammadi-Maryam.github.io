@@ -255,6 +255,13 @@ layout: page
     <div class="presentation">
         <div class="presentation-content">
           <!-- Add your presentation under the related year -->
+          <h3> 2024 </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <u>Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</u>
+            In WCCFL 42, Berkeley University.
+          </h4>
+          <!-- Add your presentation under the related year -->
           <h3> 2023 </h3>
           <!-- Add your presentation -->
           <h4>
