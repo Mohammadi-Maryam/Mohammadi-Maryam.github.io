@@ -26,6 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:maryam.mohammadi@uni-konstanz.de"}
   - {title: linkedin, icon: linkedin, url: "https://linkedin.com/in/maryam-mohammadi-675894146"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=x20ent8AAAAJ&hl=en"}
  # - {title: Github, icon: github, url: "https://mohammadi-maryam.github.io"}
 
 comments:
