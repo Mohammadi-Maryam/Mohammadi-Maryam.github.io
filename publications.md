@@ -96,7 +96,7 @@ layout: page
           <h3> under submission </h3>
           <h4> 
             Mohammadi, M. 
-            <i>Polar response particles in Farsi: Lexical ambiguity,</i>
+            <i>Polar response particles in Farsi: Lexical ambiguity</i>
             <!-- To appear in Glossa: a journal of general linguistics. -->
           </h4>
         </div>
