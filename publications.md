@@ -93,7 +93,7 @@ layout: page
     <div class="publication">
     <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
         <div class="publication-content">
-          <h3> under submission </h3>
+          <h3> under review </h3>
           <h4> 
             Mohammadi, M. 
             <i>Polar response particles in Farsi: Lexical ambiguity</i>
