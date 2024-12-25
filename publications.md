@@ -263,7 +263,7 @@ layout: page
           <!-- Add your presentation -->
           <h4>
             <i> - Aren't Conditionals Quantifiers?</i>
-            ICIL 10, University of Tuscia (Viterbo).
+            In ICIL 10, University of Tuscia (Viterbo).
           </h4>
           <!-- Add your presentation under the related year -->
           <h3> <u> 2024 </u> </h3>
