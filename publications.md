@@ -262,7 +262,20 @@ layout: page
           <h3> <u> 2024 </u> </h3>
           <!-- Add your presentation -->
           <h4>
+          <!-- Add your presentation -->
+          <h4>
+            <i> - User-oriented research infrastructure assisting linguistic data collection and (re-)use,</i>
+            SFB-INF Workshop, Köln University (poster presentation).
+          </h4>
+          <h4>
+          <!-- Add your presentation -->
+          <h4>
             <i> - Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
+            In Linguistics Seminar Series, Lunds University.
+          </h4>
+          <!-- Add your presentation -->
+          <h4>
+            <i> - Polar Response Particles in Farsi: Lexical Ambiguity,</i>
             In WCCFL 42, Berkeley University.
           </h4>
           <!-- Add your presentation under the related year -->
