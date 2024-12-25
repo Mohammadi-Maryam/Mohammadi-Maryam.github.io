@@ -119,7 +119,7 @@ layout: page
     <div class="publication">
     <!--  <a href="../pdfs/...pdf" target="_blank"> -->
         <div class="publication-content">
-          <h3> to appear </h3>
+          <h3> 2024 </h3>
           <h4>
             Mohammadi, M., Koev, T.
             <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
