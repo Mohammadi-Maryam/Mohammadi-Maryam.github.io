@@ -259,15 +259,19 @@ layout: page
     <div class="presentation">
         <div class="presentation-content">
           <!-- Add your presentation under the related year -->
-          <h3> <u> 2024 </u> </h3>
+          <h3> <u> 2025 </u> </h3>
           <!-- Add your presentation -->
           <h4>
+            <i> - Aren't Conditionals Quantifiers?</i>
+            ICIL 10, University of Tuscia (Viterbo).
+          </h4>
+          <!-- Add your presentation under the related year -->
+          <h3> <u> 2024 </u> </h3>
           <!-- Add your presentation -->
           <h4>
             <i> - User-oriented research infrastructure assisting linguistic data collection and (re-)use,</i>
             SFB-INF Workshop, Köln University (poster presentation).
           </h4>
-          <h4>
           <!-- Add your presentation -->
           <h4>
             <i> - Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
