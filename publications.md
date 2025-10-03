@@ -93,6 +93,19 @@ layout: page
     <div class="publication">
     <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
         <div class="publication-content">
+          <h3> in progress </h3>
+          <h4> 
+            Mohammadi, M. 
+            <i>Mismatch Patterns in Polite Plural: A Study on Farsi</i>
+            <!-- To appear in DGfS -->
+          </h4>
+        </div>
+    <!--    </a>  -->
+    </div>
+   <!-- Add your publication.... -->
+    <div class="publication">
+    <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
+        <div class="publication-content">
           <h3> under review </h3>
           <h4> 
             Mohammadi, M. 
@@ -101,6 +114,18 @@ layout: page
           </h4>
         </div>
     <!--    </a>  -->
+    </div>
+      <!-- Add your publication.... -->
+    <div class="publication">
+    <!--  <a href="https://osf.io/pmwyb" target="_blank">  -->
+        <div class="publication-content">
+          <h3> pre-print </h3>
+          <h4> 
+            Mohammadi, M., Politt, K., and Jorschick, A.,
+            <i> Assessing Data Management and Compliance in Large Research</i>
+          </h4>
+        </div>
+  <!--    </a>  -->
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
@@ -119,7 +144,7 @@ layout: page
     <div class="publication">
     <!--  <a href="../pdfs/...pdf" target="_blank"> -->
         <div class="publication-content">
-          <h3> 2024 </h3>
+          <h3> 2025 </h3>
           <h4>
             Mohammadi, M., Koev, T.
             <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
@@ -258,6 +283,20 @@ layout: page
 <div class="presentations">
     <div class="presentation">
         <div class="presentation-content">
+          <!-- Add your presentation under the related year -->
+          <h3> <u> 2025 </u> </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <i> - Association with Contrastive Topic: Farsi ke and Topic Shift</i>
+            Triple A, University of Tokyo.
+          </h4>
+          <!-- Add your presentation under the related year -->
+          <h3> <u> 2025 </u> </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <i> - Are alternative questions exhaustive or not?</i>
+            NACIL 4, University of Toronto Mississauga.
+          </h4>
           <!-- Add your presentation under the related year -->
           <h3> <u> 2025 </u> </h3>
           <!-- Add your presentation -->
