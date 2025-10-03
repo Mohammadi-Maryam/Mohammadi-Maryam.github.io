@@ -122,7 +122,7 @@ layout: page
           <h3> pre-print </h3>
           <h4> 
             Mohammadi, M., Politt, K., and Jorschick, A.,
-            <i> Assessing Data Management and Compliance in Large Research</i>
+            <i> Assessing data management and compliance in large research collaborations via knowledge bases: A semi-structured interview approach</i>
           </h4>
         </div>
   <!--    </a>  -->
