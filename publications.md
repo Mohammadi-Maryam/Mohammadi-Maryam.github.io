@@ -142,7 +142,7 @@ layout: page
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
-    <!--  <a href="../pdfs/...pdf" target="_blank"> -->
+    <a href="https://www.lingref.com/cpp/wccfl/42/paper3830.pdf" target="_blank"> 
         <div class="publication-content">
           <h3> 2025 </h3>
           <h4>
