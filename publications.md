@@ -151,7 +151,7 @@ layout: page
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
-     <!-- </a> -->
+     </a>
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
