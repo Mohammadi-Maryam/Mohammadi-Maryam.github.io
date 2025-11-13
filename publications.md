@@ -147,7 +147,7 @@ layout: page
           <h3> 2025 </h3>
           <h4>
             Mohammadi, M., Koev, T.
-            <i> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</i>
+            <i><u> Speaker Attitudes Predict Epistemic Biases in Polar Questions : Evidence from Farsi,</u></i>
             In the proceedings of West Cost Conference of Formal Linguistics (WCCFL) 42, Berkeley University.
           </h4>
         </div>
