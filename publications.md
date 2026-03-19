@@ -310,15 +310,11 @@ layout: page
             <i> - Association with Contrastive Topic: Farsi ke and Topic Shift, </i>
             Triple A Conference, University of Tokyo.
           </h4>
-          <!-- Add your presentation under the related year -->
-          <h3> <u> 2025 </u> </h3>
           <!-- Add your presentation -->
           <h4>
             <i> - Are alternative questions exhaustive or not? </i>
             NACIL 4, University of Toronto Mississauga.
           </h4>
-          <!-- Add your presentation under the related year -->
-          <h3> <u> 2025 </u> </h3>
           <!-- Add your presentation -->
           <h4>
             <i> - Aren't Conditionals Quantifiers? </i>
