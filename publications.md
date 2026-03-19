@@ -96,7 +96,7 @@ layout: page
           <h3> to appear </h3>
           <h4>
             Koev, T., Mohammadi, M.
-            <i><u>  Association with Contrastive Topic : Farsi ke,</u></i>
+            <i>Association with Contrastive Topic : Farsi ke,</i>
             In the proceedings of Semantics And Linguistic Theory (SALT) 36, University of Buenos Aires.
           </h4>
         </div>
@@ -122,8 +122,8 @@ layout: page
           <h3> awaiting peer review </h3>
           <h4>         
             Mohammadi, M., Politt, K., and Jorschick, A.,
-            <i> Assessing data management and compliance in large research collaborations via knowledge bases : A semi-structured interview approach [version 1 ; peer review : awaiting peer review]</i>
-            F1000Research 2026, 15:37.
+            <u><i> Assessing data management and compliance in large research collaborations via knowledge bases : A semi-structured interview approach </i></u>
+            [version 1 ; peer review : awaiting peer review], F1000Research 2026, 15:37.
           </h4>
         </div>
     </a>
