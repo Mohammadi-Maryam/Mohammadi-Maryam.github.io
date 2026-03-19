@@ -119,7 +119,7 @@ layout: page
     <div class="publication">
     <a href="[[https://osf.io/pmwyb](https://f1000research.com/articles/15-37/v1)](https://doi.org/10.12688/f1000research.173178.1)" target="_blank">
         <div class="publication-content">
-          <h3> awaiting peer review </h3>
+          <h3> to appear </h3>
           <h4>         
             Mohammadi, M., Politt, K., and Jorschick, A.,
             <u><i> Assessing data management and compliance in large research collaborations via knowledge bases : A semi-structured interview approach </i></u>
