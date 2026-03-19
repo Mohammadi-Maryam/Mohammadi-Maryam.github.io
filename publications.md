@@ -91,41 +91,42 @@ layout: page
 <div class="publications">
   <!-- Add your publication.... -->
     <div class="publication">
-    <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
+    <!-- <a href="https://www.lingref.com/cpp/wccfl/42/paper3830.pdf" target="_blank">  -->
         <div class="publication-content">
-          <h3> in progress </h3>
-          <h4> 
-            Mohammadi, M. 
-            <i>Mismatch Patterns in Polite Plural: A Study on Farsi</i>
-            <!-- To appear in DGfS -->
+          <h3> to appear </h3>
+          <h4>
+            Koev, T., Mohammadi, M.
+            <i><u>  Association with Contrastive Topic : Farsi ke,</u></i>
+            In the proceedings of Semantics And Linguistic Theory (SALT) 36, University of Buenos Aires.
           </h4>
         </div>
-    <!--    </a>  -->
+     <!-- </a> -->
+    </div>
+  <!-- Add your publication.... -->
+    <div class="publication">
+    <!-- <a href="[[https://osf.io/pmwyb](https://f1000research.com/articles/15-37/v1)](https://doi.org/10.12688/f1000research.173178.1)" target="_blank"> -->
+        <div class="publication-content">
+          <h3> to appear </h3>
+          <h4>         
+            Strathmann, A, Joppek, M., Mohammadi, M., Politt, K., Schrader, P., Jorschick, A., Buschmeier, H.
+            <i> Modelling Legal Compliance in a Consent Wizard Application as Part of a Research-Centered and User-Oriented Data Infrastructure </i>
+            to appear in the proceedings of LREC, Legal and Ethical Issues in Human Language Technologies Workshop.
+          </h4>
+        </div>
+    <!-- </a> -->
     </div>
    <!-- Add your publication.... -->
     <div class="publication">
-    <!--  <a href="../pdfs/paper1.pdf" target="_blank">  -->
+    <a href="[[https://osf.io/pmwyb](https://f1000research.com/articles/15-37/v1)](https://doi.org/10.12688/f1000research.173178.1)" target="_blank">
         <div class="publication-content">
-          <h3> under review </h3>
-          <h4> 
-            Mohammadi, M. 
-            <i>Polar response particles in Farsi: Lexical ambiguity</i>
-            <!-- To appear in Glossa: a journal of general linguistics. -->
-          </h4>
-        </div>
-    <!--    </a>  -->
-    </div>
-      <!-- Add your publication.... -->
-    <div class="publication">
-    <!--  <a href="https://osf.io/pmwyb" target="_blank">  -->
-        <div class="publication-content">
-          <h3> pre-print </h3>
-          <h4> 
+          <h3> awaiting peer review </h3>
+          <h4>         
             Mohammadi, M., Politt, K., and Jorschick, A.,
-            <i> Assessing data management and compliance in large research collaborations via knowledge bases: A semi-structured interview approach</i>
+            <i> Assessing data management and compliance in large research collaborations via knowledge bases : A semi-structured interview approach [version 1 ; peer review : awaiting peer review]</i>
+            F1000Research 2026, 15:37.
           </h4>
         </div>
-  <!--    </a>  -->
+    </a>
     </div>
     <!-- Add your publication.... -->
     <div class="publication">
