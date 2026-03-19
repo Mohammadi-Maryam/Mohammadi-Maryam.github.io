@@ -285,8 +285,27 @@ layout: page
     <div class="presentation">
         <div class="presentation-content">
           <!-- Add your presentation under the related year -->
+          <h3> <u> 2026 </u> </h3>
+          <!-- Add your presentation -->
+          <h4>
+            <i> - Do Large Language Models Understand Double Mismatches? Evidence from Farsi </i>
+             SilkRoadNLP Workshop, EACL, Rabat, Morocco (poster presentation).
+          </h4>
+          <h4>
+            <i> - Mismatch patterns in polite plural : a study on Farsi </i>
+             Tracing Mismatches : Deviations from one-to-one patterns Workshop, DGfS, Trier University.
+          </h4>
+          <!-- Add your presentation under the related year -->
           <h3> <u> 2025 </u> </h3>
           <!-- Add your presentation -->
+          <h4>
+            <i> - What can we do with what data? </i>
+             ReproducibiliTea in the HumaniTeas, Köln University.
+          </h4>
+          <h4>
+            <i> - Biased polar questions : A cross-linguistic study</i>
+             Workshop on Creative Discourse beyond Discourse Expectations and Implicit Meaning, Bielefeld University.
+          </h4>
           <h4>
             <i> - Association with Contrastive Topic: Farsi ke and Topic Shift</i>
             Triple A, University of Tokyo.
