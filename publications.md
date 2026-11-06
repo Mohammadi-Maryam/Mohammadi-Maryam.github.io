@@ -3,20 +3,6 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-<style>
-.bib-publication {
-  margin-bottom: 22px;
-  line-height: 1.65;
-}
-
-.bib-publication p {
-  margin: 3px 0;
-}
-
-.publication-links {
-  font-size: 0.9em;
-}
-</style>
 
 <div id="bib-publications">
   Loading publications...
