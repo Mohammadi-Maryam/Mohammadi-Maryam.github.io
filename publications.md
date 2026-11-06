@@ -13,10 +13,6 @@ layout: page
   margin: 3px 0;
 }
 
-.bib-publication em {
-  font-style: italic;
-}
-
 .publication-links {
   font-size: 0.9em;
 }
