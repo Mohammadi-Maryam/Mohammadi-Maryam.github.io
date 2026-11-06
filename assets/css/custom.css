@@ -1,4 +1,34 @@
-/* General publication formatting */
+
+/* =========================================
+   GLOBAL CUSTOM STYLES
+   Maryam Mohammadi's Academic Website
+   ========================================= */
+
+
+/* -----------------------------------------
+   1. GLOBAL HYPERLINK STYLING
+   ----------------------------------------- */
+
+a {
+    color: #1cd9e7;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #00aab8;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1cd9e7;
+}
+
+
+/* -----------------------------------------
+   2. PUBLICATIONS
+   ----------------------------------------- */
+
 .bib-publication {
     margin-bottom: 22px;
     line-height: 1.65;
@@ -8,16 +38,30 @@
     margin: 3px 0;
 }
 
+.bib-publication em {
+    font-style: italic;
+}
+
 .publication-links {
     font-size: 0.9em;
 }
 
-/* Global hyperlink styling */
-/* Leave colors to the Contrast theme */
-a {
-    text-decoration: none;
+
+/* -----------------------------------------
+   3. PUBLICATION LINK SPACING
+   ----------------------------------------- */
+
+.publication-links a {
+    margin-right: 3px;
 }
 
-a:hover {
-    text-decoration: underline;
+
+/* -----------------------------------------
+   4. RESPONSIVE ADJUSTMENTS
+   ----------------------------------------- */
+
+@media screen and (max-width: 600px) {
+    .bib-publication {
+        margin-bottom: 18px;
+    }
 }
