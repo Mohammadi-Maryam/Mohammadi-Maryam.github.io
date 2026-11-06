@@ -16,10 +16,6 @@ layout: page
 .publication-links {
   font-size: 0.9em;
 }
-
-.publication-links a {
-  color: inherit;
-}
 </style>
 
 <div id="bib-publications">
