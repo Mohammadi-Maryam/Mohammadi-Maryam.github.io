@@ -3,7 +3,6 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-
 <style>
 /* Style only hyperlinks inside the publications section */
 #bib-publications a {
