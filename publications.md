@@ -1,21 +1,24 @@
+
 ---
 title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
+
 <style>
-a {
+/* Style only hyperlinks inside the publications section */
+#bib-publications a {
     color: #1cd9e7;
     text-decoration: underline;
     transition: color 0.2s ease;
 }
 
-a:hover {
+#bib-publications a:hover {
     color: #00aab8;
     text-decoration: none;
 }
 
-a:visited {
+#bib-publications a:visited {
     color: #1cd9e7;
 }
 </style>
