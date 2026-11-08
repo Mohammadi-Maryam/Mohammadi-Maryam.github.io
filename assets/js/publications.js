@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     const publications = entries
       .filter(entry => entry.entryTags)
-      .map(entry => ({
+      .map((entry, index) => ({
         author: clean(field(entry, "author")),
         title: clean(field(entry, "title")),
         year: clean(field(entry, "year")),
@@ -61,12 +61,26 @@ document.addEventListener("DOMContentLoaded", async function () {
         url: clean(field(entry, "url")),
         pdf: clean(field(entry, "pdf")),
         volume: clean(field(entry, "volume")),
-        pages: clean(field(entry, "pages"))
+        pages: clean(field(entry, "pages")),
+        note: clean(field(entry, "note")),
+        index: index
       }))
       .sort((a, b) => {
+        // Publications marked "to appear" come first
+        const aToAppear = /to\s+appear/i.test(a.note);
+        const bToAppear = /to\s+appear/i.test(b.note);
+
+        if (aToAppear && !bToAppear) return -1;
+        if (!aToAppear && bToAppear) return 1;
+
+        // Otherwise, sort by year, newest first
         const yearA = parseInt(a.year, 10) || -1;
         const yearB = parseInt(b.year, 10) || -1;
-        return yearB - yearA;
+
+        if (yearA !== yearB) return yearB - yearA;
+
+        // Preserve original .bib order for entries with the same year
+        return a.index - b.index;
       });
 
     container.replaceChildren();
